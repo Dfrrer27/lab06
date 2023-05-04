@@ -1,0 +1,21 @@
+body {
+  background-color: #333333;;
+  color: aliceblue;
+  margin: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-table {
+  width: 100%;
+  max-width: 900px;
+  text-align: center;
+}
